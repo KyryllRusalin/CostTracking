@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">CostTracking</string>
+    <string name="bitcoin_rate">Bitcoin rate $ - </string>
+    <string name="add_transaction">Add transaction</string>
+    <string name="recharge_wallet">Recharge wallet</string>
+    <string name="recharge">Recharge</string>
+    <string name="transaction">Transaction</string>
+    <string name="add">Add</string>
+    <string name="no_transactions">No transactions yet</string>
+    <string name="all_transactions">All transactions</string>
+    <string name="no_enough">No enough bitcoins</string>
 </resources>
